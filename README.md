@@ -1,23 +1,36 @@
- <h1> LabeX </h1>
+<h1 align="center">
+     LabeX
+</h1>
+
+![labex](https://user-images.githubusercontent.com/60482900/154969429-3b82f446-bff2-443c-b522-1d005266aaf8.jpg)
+ 
+ <hr>
+<div>
     Labex é um site de viagens planetárias onde o usuário pode se candidatar a viagens para outros planetas. Os conceitos principais
     que foram aplicados para aprendizagem, foram: Custom Hooks, Autenticação de usuário, formulários no React e integração com a API LabeX.
+</div>
 <hr>
 <br>
 
  <h2> Descrição do Projeto </h2>
 
-     - Ao entrar no LabeX, o usuário terá uma Home com dois caminhos:
-         1) Página com a lista de viagens
-         2) Área administrativa (o usuário deverá se autenticar para acessar as páginas privadas).
+  - Ao entrar no LabeX, o usuário terá uma Home com dois caminhos:
+  1) Página com a lista de viagens
+  2) Área administrativa (o usuário deverá se autenticar para acessar as páginas privadas).
 
-     - Na página de lista de viagens o usuário verá a lista de viagens que estão disponíveis para o mesmo se inscrever, ele pode fazer sua inscrição através de um formulário que ele tem acesso após clicar no botão de 'inscrever'.
+  - Na página de lista de viagens o usuário verá a lista de viagens que estão disponíveis para o mesmo se inscrever, ele pode fazer sua inscrição através de um formulário que ele tem acesso após clicar no botão de 'inscrever'.
 
-     - Para acessar a área administrativa o usuário deverá logar-se. Nessa área administrativa ele poderá excluir as viagens já cadastradas,ver os detalhes da viagem e os canditados que se increveram naquela viagem, com a possibilidade de aprovar ou reprovar o mesmo candidato. Além de conseguir criar uma viagem que ficará disponíveis para inscrição.
+  - Para acessar a área administrativa o usuário deverá logar-se. Nessa área administrativa ele poderá excluir as viagens já cadastradas,ver os detalhes da viagem e os canditados que se increveram naquela viagem, com a possibilidade de aprovar ou reprovar o mesmo candidato. Além de conseguir criar uma viagem que ficará disponíveis para inscrição.
      
 <hr>
 <br>
- <h2> Como acessar o projeto </h2>
- <a href='https://delicate-pen.surge.sh/' target='_blank'><b>- Link do surge </b></a>
+<div>
+<video src='https://user-images.githubusercontent.com/60482900/154973005-66fa9665-2a0c-4a8e-9af9-149556bab4eb.mp4' width=590 controls autoplay>
+</div>
+
+<hr>
+<h2> Como acessar o projeto </h2>
+ <a href='https://delicate-pen.surge.sh/' target='_blank'><b> https://delicate-pen.surge.sh/</b></a>
 <hr>
 <br>
 <h2> Credencias para acessar telas privadas </h2>
